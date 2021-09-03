@@ -29,9 +29,40 @@ int main(void)
     printf("The product of A and B divided by the quantity sum of C and D = %d\n", ((A*B)/(C+D)));
 
     printf("*Honors:\n");
-    printf("A/2= %.1f\n", (1.0*A/2));
-    printf("B/2= %.1f\n", (1.0*B/2));
-    printf("C/2= %.1f\n", (1.0*C/2));
-    printf("D/2= %.1f\n", (1.0*D/2));
+    if (A%2 != 0)
+    {
+        printf("A/2= %.1f\n", (float) A/2);
+    }
+    else
+    {
+        printf("A/2= %d\n", (A/2));
+    }
+
+    if (B%2 != 0)
+    {
+        printf("B/2= %.1f\n", (float) B/2);
+    }
+    else
+    {
+        printf("B/2= %d\n", (B/2));
+    }
+
+    if (C%2 != 0)
+    {
+        printf("C/2= %.1f\n", (float) C/2);
+    }
+    else
+    {
+        printf("C/2= %d\n", (C/2));
+    }
+
+    if (D%2 != 0)
+    {
+        printf("D/2= %.1f\n", (float) D/2);
+    }
+    else
+    {
+        printf("D/2= %d\n", (D/2));
+    }
 }
 
