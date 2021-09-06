@@ -1,3 +1,9 @@
+/*********************
+* Author: Brett M.
+* Class: CS 1050
+* Semester: Fall 2021
+* *******************/
+
 #include <stdio.h>
 
 int main(void)
