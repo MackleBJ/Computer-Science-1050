@@ -3,8 +3,7 @@
  * Semester: Fall 2021
  * Date:     September 17, 2021
  * Lab:      Lab 4 
- * Author:   Brett McElvain
- * Pawprint: bjm2cd
+ * Author:   Brett M.
  * ***********************************************/
 
 #include <stdio.h>
