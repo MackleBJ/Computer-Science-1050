@@ -4,7 +4,7 @@ int main(void)
 {
     int limit, cubedNumber, counter;
 
-    printf("Please enter an integer: ");
+    printf("Please enter an interger: ");
     scanf("%d", &limit);
 
     for (counter = 0; (counter*counter*counter) <= limit; counter++)
