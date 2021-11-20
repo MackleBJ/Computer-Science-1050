@@ -4,7 +4,6 @@
  * Date:     November 5, 2021
  * Lab:      Lab 10
  * Author:   Brett M.
- * Pawprint: bjm2cd
  * ***********************************************/
 
 // includes
