@@ -3,7 +3,7 @@
  * Semester: Fall 2021
  * Date:     November 5, 2021
  * Lab:      Lab 10
- * Author:   Brett McElvain
+ * Author:   Brett M.
  * Pawprint: bjm2cd
  * ***********************************************/
 
